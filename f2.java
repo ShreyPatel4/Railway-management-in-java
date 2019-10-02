@@ -4,7 +4,7 @@ public class f2
 	Scanner sc=new Scanner(System.in);
 	Scanner sc1=new Scanner(System.in);
     int pno[]=new int[10];
-    String name[]=new String[100];
+    String name[]=new String[150];
     String phno[]=new String[100];
 	String tl[]=new String[100];
     int age[]=new int[100];

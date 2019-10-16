@@ -65,7 +65,7 @@ public class f2
    
     private void Book()
     {
-		System.out.println("\n\t\t\t\t\t\t\t   1.Ahmedabad - Mumbai");
+		System.out.println("\n\t\t\t\t\t\t   1.Ahmedabad - Mumbai");
 		System.out.println("\t\t\t\t\t\t\t   2.Ahmedabad - Delhi");
 		System.out.println("\t\t\t\t\t\t\t   3.Ahmedabad - Kolkata");
 		System.out.println("\t\t\t\t\t\t\t   4.Ahmedabad - Goa");
